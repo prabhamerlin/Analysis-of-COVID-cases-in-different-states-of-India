@@ -1,0 +1,182 @@
+[
+    {
+        "Rank": "1",
+        "State/UT": "Uttar Pradesh",
+        "Population": "19,98,12,341"
+    },
+    {
+        "Rank": "2",
+        "State/UT": "Maharashtra",
+        "Population": "11,23,74,333"
+    },
+    {
+        "Rank": "3",
+        "State/UT": "Bihar",
+        "Population": "10,40,99,452"
+    },
+    {
+        "Rank": "4",
+        "State/UT": "West Bengal",
+        "Population": "9,12,76,115"
+    },
+    {
+        "Rank": "5",
+        "State/UT": "Madhya Pradesh",
+        "Population": "7,26,26,809"
+    },
+    {
+        "Rank": "6",
+        "State/UT": "Tamil Nadu",
+        "Population": "7,21,47,030"
+    },
+    {
+        "Rank": "7",
+        "State/UT": "Rajasthan",
+        "Population": "6,85,48,437"
+    },
+    {
+        "Rank": "8",
+        "State/UT": "Karnataka",
+        "Population": "6,10,95,297"
+    },
+    {
+        "Rank": "9",
+        "State/UT": "Gujarat",
+        "Population": "6,04,39,692"
+    },
+    {
+        "Rank": "10",
+        "State/UT": "Andhra Pradesh",
+        "Population": "4,95,77,103"
+    },
+    {
+        "Rank": "11",
+        "State/UT": "Orissa",
+        "Population": "4,19,74,219"
+    },
+    {
+        "Rank": "12",
+        "State/UT": "Telangana",
+        "Population": "3,50,03,674"
+    },
+    {
+        "Rank": "13",
+        "State/UT": "Kerala",
+        "Population": "3,34,06,061"
+    },
+    {
+        "Rank": "14",
+        "State/UT": "Jharkhand",
+        "Population": "3,29,88,134"
+    },
+    {
+        "Rank": "15",
+        "State/UT": "Assam",
+        "Population": "3,12,05,576"
+    },
+    {
+        "Rank": "16",
+        "State/UT": "Punjab",
+        "Population": "2,77,43,338"
+    },
+    {
+        "Rank": "17",
+        "State/UT": "Chhattisgarh",
+        "Population": "2,55,45,198"
+    },
+    {
+        "Rank": "18",
+        "State/UT": "Haryana",
+        "Population": "2,53,51,462"
+    },
+    {
+        "Rank": "UT1",
+        "State/UT": "Delhi",
+        "Population": "1,67,87,941"
+    },
+    {
+        "Rank": "UT2",
+        "State/UT": "Jammu and Kashmir",
+        "Population": "1,22,67,032"
+    },
+    {
+        "Rank": "19",
+        "State/UT": "Uttarakhand",
+        "Population": "1,00,86,292"
+    },
+    {
+        "Rank": "20",
+        "State/UT": "Himachal Pradesh",
+        "Population": "68,64,602"
+    },
+    {
+        "Rank": "21",
+        "State/UT": "Tripura",
+        "Population": "36,73,917"
+    },
+    {
+        "Rank": "22",
+        "State/UT": "Meghalaya",
+        "Population": "29,66,889"
+    },
+    {
+        "Rank": "23",
+        "State/UT": "Manipur",
+        "Population": "25,70,390"
+    },
+    {
+        "Rank": "24",
+        "State/UT": "Nagaland",
+        "Population": "19,78,502"
+    },
+    {
+        "Rank": "25",
+        "State/UT": "Goa",
+        "Population": "14,58,545"
+    },
+    {
+        "Rank": "26",
+        "State/UT": "Arunachal Pradesh",
+        "Population": "13,83,727"
+    },
+    {
+        "Rank": "UT3",
+        "State/UT": "Puducherry",
+        "Population": "12,47,953"
+    },
+    {
+        "Rank": "27",
+        "State/UT": "Mizoram",
+        "Population": "10,97,206"
+    },
+    {
+        "Rank": "UT4",
+        "State/UT": "Chandigarh",
+        "Population": "10,55,450"
+    },
+    {
+        "Rank": "28",
+        "State/UT": "Sikkim",
+        "Population": "6,10,577"
+    },
+    {
+        "Rank": "UT5",
+        "State/UT": "Dadra and Nagar Haveli and Daman and Diu",
+        "Population": "5,85,764"
+    },
+    {
+        "Rank": "UT6",
+        "State/UT": "Andaman and Nicobar Islands",
+        "Population": "3,80,581"
+    },
+    {
+        "Rank": "UT7",
+        "State/UT": "Ladakh",
+        "Population": "2,74,000"
+    },
+    {
+        "Rank": "UT8",
+        "State/UT": "Lakshadweep",
+        "Population": "64,473"
+    }
+]

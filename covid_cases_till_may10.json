@@ -1,0 +1,298 @@
+[
+    {
+        "Sno": "",
+        "State/UT": "India",
+        "Confirmed cases": "22662575",
+        "Active cases": "3745237",
+        "Cured/Discharged": "18671222",
+        "Death": "246116"
+    },
+    {
+        "Sno": "1",
+        "State/UT": "Andaman and Nicobar Islands",
+        "Confirmed cases": "6367",
+        "Active cases": "203",
+        "Cured/Discharged": "6088",
+        "Death": "76"
+    },
+    {
+        "Sno": "2",
+        "State/UT": "Andhra Pradesh",
+        "Confirmed cases": "1287603",
+        "Active cases": "190632",
+        "Cured/Discharged": "1088264",
+        "Death": "8707"
+    },
+    {
+        "Sno": "3",
+        "State/UT": "Arunachal Pradesh",
+        "Confirmed cases": "20165",
+        "Active cases": "1933",
+        "Cured/Discharged": "18172",
+        "Death": "60"
+    },
+    {
+        "Sno": "4",
+        "State/UT": "Assam",
+        "Confirmed cases": "292368",
+        "Active cases": "37352",
+        "Cured/Discharged": "253340",
+        "Death": "1676"
+    },
+    {
+        "Sno": "5",
+        "State/UT": "Bihar",
+        "Confirmed cases": "591476",
+        "Active cases": "110805",
+        "Cured/Discharged": "477389",
+        "Death": "3282"
+    },
+    {
+        "Sno": "6",
+        "State/UT": "Chandigarh",
+        "Confirmed cases": "50207",
+        "Active cases": "8511",
+        "Cured/Discharged": "41128",
+        "Death": "568"
+    },
+    {
+        "Sno": "7",
+        "State/UT": "Chhattisgarh",
+        "Confirmed cases": "851476",
+        "Active cases": "126547",
+        "Cured/Discharged": "714359",
+        "Death": "10570"
+    },
+    {
+        "Sno": "8",
+        "State/UT": "Dadra and Nagar Haveli and Daman and Diu",
+        "Confirmed cases": "8847",
+        "Active cases": "1320",
+        "Cured/Discharged": "7523",
+        "Death": "4"
+    },
+    {
+        "Sno": "9",
+        "State/UT": "Delhi",
+        "Confirmed cases": "1323567",
+        "Active cases": "86232",
+        "Cured/Discharged": "1217991",
+        "Death": "19344"
+    },
+    {
+        "Sno": "10",
+        "State/UT": "Goa",
+        "Confirmed cases": "118846",
+        "Active cases": "31875",
+        "Cured/Discharged": "85292",
+        "Death": "1679"
+    },
+    {
+        "Sno": "11",
+        "State/UT": "Gujarat",
+        "Confirmed cases": "681012",
+        "Active cases": "139614",
+        "Cured/Discharged": "533004",
+        "Death": "8394"
+    },
+    {
+        "Sno": "12",
+        "State/UT": "Haryana",
+        "Confirmed cases": "615897",
+        "Active cases": "116867",
+        "Cured/Discharged": "493425",
+        "Death": "5605"
+    },
+    {
+        "Sno": "13",
+        "State/UT": "Himachal Pradesh",
+        "Confirmed cases": "131423",
+        "Active cases": "32469",
+        "Cured/Discharged": "97069",
+        "Death": "1885"
+    },
+    {
+        "Sno": "14",
+        "State/UT": "Jammu and Kashmir",
+        "Confirmed cases": "216932",
+        "Active cases": "49248",
+        "Cured/Discharged": "164958",
+        "Death": "2726"
+    },
+    {
+        "Sno": "15",
+        "State/UT": "Jharkhand",
+        "Confirmed cases": "286343",
+        "Active cases": "58806",
+        "Cured/Discharged": "223684",
+        "Death": "3853"
+    },
+    {
+        "Sno": "16",
+        "State/UT": "Karnataka",
+        "Confirmed cases": "1934378",
+        "Active cases": "564505",
+        "Cured/Discharged": "1351097",
+        "Death": "18776"
+    },
+    {
+        "Sno": "17",
+        "State/UT": "Kerala",
+        "Confirmed cases": "1902628",
+        "Active cases": "423863",
+        "Cured/Discharged": "1472951",
+        "Death": "5814"
+    },
+    {
+        "Sno": "18",
+        "State/UT": "Ladakh",
+        "Confirmed cases": "15317",
+        "Active cases": "1443",
+        "Cured/Discharged": "13719",
+        "Death": "155"
+    },
+    {
+        "Sno": "19",
+        "State/UT": "Lakshadweep",
+        "Confirmed cases": "3881",
+        "Active cases": "1016",
+        "Cured/Discharged": "2856",
+        "Death": "9"
+    },
+    {
+        "Sno": "20",
+        "State/UT": "Madhya Pradesh",
+        "Confirmed cases": "671763",
+        "Active cases": "108913",
+        "Cured/Discharged": "556430",
+        "Death": "6420"
+    },
+    {
+        "Sno": "21",
+        "State/UT": "Maharashtra",
+        "Confirmed cases": "5101737",
+        "Active cases": "618070",
+        "Cured/Discharged": "4407818",
+        "Death": "75849"
+    },
+    {
+        "Sno": "22",
+        "State/UT": "Manipur",
+        "Confirmed cases": "35354",
+        "Active cases": "4280",
+        "Cured/Discharged": "30598",
+        "Death": "476"
+    },
+    {
+        "Sno": "23",
+        "State/UT": "Meghalaya",
+        "Confirmed cases": "19720",
+        "Active cases": "2899",
+        "Cured/Discharged": "16593",
+        "Death": "228"
+    },
+    {
+        "Sno": "24",
+        "State/UT": "Mizoram",
+        "Confirmed cases": "7623",
+        "Active cases": "1847",
+        "Cured/Discharged": "5755",
+        "Death": "21"
+    },
+    {
+        "Sno": "25",
+        "State/UT": "Nagaland",
+        "Confirmed cases": "16150",
+        "Active cases": "2809",
+        "Cured/Discharged": "13201",
+        "Death": "140"
+    },
+    {
+        "Sno": "26",
+        "State/UT": "Orissa",
+        "Confirmed cases": "534842",
+        "Active cases": "84799",
+        "Cured/Discharged": "447863",
+        "Death": "2180"
+    },
+    {
+        "Sno": "27",
+        "State/UT": "Puducherry",
+        "Confirmed cases": "71709",
+        "Active cases": "14034",
+        "Cured/Discharged": "56710",
+        "Death": "965"
+    },
+    {
+        "Sno": "28",
+        "State/UT": "Punjab",
+        "Confirmed cases": "442125",
+        "Active cases": "74343",
+        "Cured/Discharged": "357276",
+        "Death": "10506"
+    },
+    {
+        "Sno": "29",
+        "State/UT": "Rajasthan",
+        "Confirmed cases": "756707",
+        "Active cases": "200189",
+        "Cured/Discharged": "550853",
+        "Death": "5665"
+    },
+    {
+        "Sno": "30",
+        "State/UT": "Sikkim",
+        "Confirmed cases": "9878",
+        "Active cases": "2637",
+        "Cured/Discharged": "7074",
+        "Death": "167"
+    },
+    {
+        "Sno": "31",
+        "State/UT": "Tamil Nadu",
+        "Confirmed cases": "1380259",
+        "Active cases": "144547",
+        "Cured/Discharged": "1220064",
+        "Death": "15648"
+    },
+    {
+        "Sno": "32",
+        "State/UT": "Telangana",
+        "Confirmed cases": "497361",
+        "Active cases": "65757",
+        "Cured/Discharged": "428865",
+        "Death": "2739"
+    },
+    {
+        "Sno": "33",
+        "State/UT": "Tripura",
+        "Confirmed cases": "37692",
+        "Active cases": "2750",
+        "Cured/Discharged": "34532",
+        "Death": "410"
+    },
+    {
+        "Sno": "34",
+        "State/UT": "Uttar Pradesh",
+        "Confirmed cases": "1503490",
+        "Active cases": "233981",
+        "Cured/Discharged": "1254045",
+        "Death": "15464"
+    },
+    {
+        "Sno": "35",
+        "State/UT": "Uttarakhand",
+        "Confirmed cases": "244273",
+        "Active cases": "74114",
+        "Cured/Discharged": "166431",
+        "Death": "3728"
+    },
+    {
+        "Sno": "36",
+        "State/UT": "West Bengal",
+        "Confirmed cases": "993159",
+        "Active cases": "126027",
+        "Cured/Discharged": "854805",
+        "Death": "12327"
+    }
+]

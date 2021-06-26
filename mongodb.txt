@@ -1,0 +1,39 @@
+--------In mongo command prompt ---------
+
+Change datatype of a field(string->number):
+
+db.statewise_tested.find().forEach(function(ch)
+... {
+... db.statewise_tested.update({
+... "_id":ch._id},
+... {"$set":
+... {
+... "Positive":parseInt(ch.Positive)
+... }
+... });
+... });
+
+againCheckType=db.statewise_tested.findOne();
+
+typeof againCheckType.Positive;
+
+
+
+
+Rename field name in mongodb:
+db.statewise_tested.updateMany( {}, { $rename: { "Total Tested": "TotalTested" } } )
+
+
+
+Nan values for Positive field:
+db.statewise_tested.find( { Positive: NaN })
+
+
+
+
+
+
+Update nan values to 0:
+db.statewise_tested.update({"$where": "return isNaN(this.Negative)"},{"$set": {"Negative": 0 }},{ "multi": true});
+
+
